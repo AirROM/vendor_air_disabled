@@ -1,7 +1,9 @@
 $(call inherit-product, vendor/air/configs/common.mk)
 
 PRODUCT_PACKAGES += \
-    NovaLauncher
+    NovaLauncher \
+    CPUBoxDual \
+    NexusTools
 
 # Inherit drm blobs
 -include vendor/air/configs/common_drm_phone.mk
