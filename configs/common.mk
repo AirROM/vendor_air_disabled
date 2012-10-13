@@ -38,6 +38,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 PRODUCT_COPY_FILES += \
     vendor/air/prebuilt/common/lib/libmicrobes_jni.so:system/lib/libmicrobes_jni.so \
+    vendor/air/prebuilt/common/lib/libDHWR.so:system/lib/libDHWR.so \
+    vendor/air/prebuilt/common/lib/libDWP.so:system/lib/libDWP.so \
+    vendor/air/prebuilt/common/lib/libXt9core.so:system/lib/libXt9core.so \
     vendor/air/prebuilt/common/etc/apns-conf.xml:system/etc/apns-conf.xml \
     vendor/air/prebuilt/common/etc/resolv.conf:system/etc/resolv.conf
 

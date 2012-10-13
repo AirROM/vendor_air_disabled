@@ -3,3 +3,4 @@ add_lunch_combo air_crespo-userdebug
 add_lunch_combo air_grouper-userdebug
 add_lunch_combo air_i9100-userdebug
 add_lunch_combo air_i9300-userdebug
+add_lunch_combo air_su640-userdebug
